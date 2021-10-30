@@ -3,21 +3,9 @@ GitHub Repository for the final project
 
 # Overview
 Presentation link: 
+[First Delivery Presentation](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
 
-
-ldjkfklsdjfklsdajfkljsadlkfas
-dfa
-sdfasd
-f
-asdf
-sad
-f
-asdf
-sa
-df
-sad
-fsd
-
+__________
 
 # Framework SCRUM
 We will use the Scrum framework to carry out the project. Raquel will be the Scrum Master of the team.
