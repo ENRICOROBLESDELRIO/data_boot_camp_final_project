@@ -9,13 +9,13 @@
 
 ### Required Content
 
-- Selected topic
-- Reason the topic was selected
-- Description of the source of data
-- Questions the team hopes to answer with the data
-- Description of the data exploration phase of the project
-- Description of the analysis phase of the project
-- Technologies, languages, tools, and algorithms used throughout the project
-- Result of analysis
-- Recommendation for future analysis
-- Anything the team would have done differently
+- Selected topic **Ready for review**
+- Reason the topic was selected **Ready for review**
+- Description of the source of data **Ready for review**
+- Questions the team hopes to answer with the data **Ready for review**
+- Description of the data exploration phase of the project **WIP**
+- Description of the analysis phase of the project **WIP**
+- Technologies, languages, tools, and algorithms used throughout the project **WIP**
+- Result of analysis **WIP**
+- Recommendation for future analysis **WIP**
+- Anything the team would have done differently **WIP**
