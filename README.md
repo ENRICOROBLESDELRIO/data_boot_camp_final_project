@@ -20,6 +20,18 @@ https://us02web.zoom.us/j/88358613930?pwd=WlVLWlVCM0l4a0oyUGM5eFp4bHdNQT09
 Meeting ID: 883 5861 3930
 Passcode: 112233
 
-
 ![alt text](Resources/meeting.png)
+
+
+# Team branch
+Each member of the team create personal branch on Github
+
+![alt text](Resources/branch.png)
+
+
 ______________
+
+# Table fields review
+The database fields are reviewed with the mockup fields. Type and name.
+
+![alt text](Resources/review1.png)
