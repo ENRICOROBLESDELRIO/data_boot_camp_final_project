@@ -17,16 +17,6 @@ We will use the Scrum framework to carry out the project. Raquel will be the Scr
 
 We will use the zoom for daily scrum meetings, weekdays from 6:45 pm to 7:00 pm
 
-Invitation:
-
-Cielo GzVerduzco is inviting you to a scheduled Zoom meeting.
-
-Join Zoom Meeting
-<https://us02web.zoom.us/j/88358613930?pwd=WlVLWlVCM0l4a0oyUGM5eFp4bHdNQT09>
-
-Meeting ID: 883 5861 3930
-Passcode: 112233
-
 ![alt text](Resources/meeting.png)
 
 ## Team branch
