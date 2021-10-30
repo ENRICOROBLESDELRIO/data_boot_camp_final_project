@@ -1,2 +1,25 @@
-# data_boot_camp_final_project
+# Final project Data Bootcamp
 GitHub Repository for the final project
+
+# Overview
+
+# Framework SCRUM
+We will use the Scrum framework to carry out the project. Raquel will be the Scrum Master of the team.
+
+
+# Meetings calendar
+We will use the zoom for daily scrum meetings, weekdays from 6:45 pm to 7:00 pm
+
+Invitation:
+
+Cielo GzVerduzco is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/88358613930?pwd=WlVLWlVCM0l4a0oyUGM5eFp4bHdNQT09
+
+Meeting ID: 883 5861 3930
+Passcode: 112233
+
+
+![alt text](Resources/meeting.png)
+______________
