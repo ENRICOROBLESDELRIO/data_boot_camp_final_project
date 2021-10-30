@@ -9,10 +9,10 @@
 
 ### Required Content
 
-- Selected topic **Ready for review**
-- Reason the topic was selected **Ready for review**
-- Description of the source of data **Ready for review**
-- Questions the team hopes to answer with the data **Ready for review**
+- Selected topic **Done**
+- Reason the topic was selected **Done**
+- Description of the source of data **Done**
+- Questions the team hopes to answer with the data **Done**
 - Description of the data exploration phase of the project **WIP**
 - Description of the analysis phase of the project **WIP**
 - Technologies, languages, tools, and algorithms used throughout the project **WIP**
