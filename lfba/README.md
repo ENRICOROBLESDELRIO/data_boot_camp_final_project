@@ -19,3 +19,7 @@
 - Result of analysis **WIP**
 - Recommendation for future analysis **WIP**
 - Anything the team would have done differently **WIP**
+
+### First delivery
+
+[Presentation week 1](<https://docs.google.com/presentation/d/1QiLxk_p89LIsM37g2Jnd-EpZnyiWOXHQli9-UWDwzvo/edit#slide=id.gfc9c460b8d_0_21>)
