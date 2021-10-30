@@ -7,6 +7,8 @@ GitHub Repository for the final project
 Presentation link:
 [First Delivery Presentation](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
 
+[![First Delivery Presentation](./Resources/presentation.png)](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
+
 __________
 
 ## Framework SCRUM
@@ -16,6 +18,7 @@ We will use the Scrum framework to carry out the project. Raquel will be the Scr
 ## Meetings calendar
 
 We will use the zoom for daily scrum meetings, weekdays from 6:45 pm to 7:00 pm
+
 
 ![alt text](Resources/meeting.png)
 
@@ -32,7 +35,6 @@ ______________
 The database fields are reviewed with the mockup fields. Type and name.
 
 ![alt text](Resources/review1.png)
-
 
 ## Mockups table
 
