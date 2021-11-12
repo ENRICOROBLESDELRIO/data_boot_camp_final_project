@@ -45,12 +45,12 @@ The database fields are reviewed with the mockup fields. Type and name.
 _______________
 _______________
 
-# Description of preliminary data preprocessing
+=======
+## Preprocessing
 
+[Go to Preprocessing Resume](Preprocessing.md)
 
-
-
-
+=======
 # Description of cleaning data
 The connection to the postgress database was made to google colab.
 
@@ -100,8 +100,5 @@ For the companies table, it was necessary to exclude the "mean_**" columns from 
 
 ![alt text](Resources/11.png)
 
-=======
-## Preprocessing
 
-[Go to Preprocessing Resume](Preprocessing.md)
 
