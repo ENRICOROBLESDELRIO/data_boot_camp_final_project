@@ -5,12 +5,12 @@
 ## 1. Setup and Libraries
 
    - Relevant libraries used: numpy, pandas, sklean, google.colab, psycopg2
-   - Create Google Cloud SQL Connexion
+   - Create Google Cloud SQL Connection
    - Read key_config.txt for server parameters
 
 ## 2. Check of Companies
 
-   - Before data cleaning the total Compaines that coincide in the Rounds and Founders tables is obtained to validate if some information is loosed in the cleaning process
+   - Before data cleaning the total Companies that coincide in the Rounds and Founders tables is obtained to validate if some information is loosed in the cleaning process
 
 ## 3. Rounds Table Data Cleaning
 
@@ -38,11 +38,11 @@
 ## 5. Rounds Preprocessing, 2nd Stage (Data at Decision Point)
 
    - The **Decision Point (dp)** is the moment when the VC usually is considering to invest in a new company that is **before a C Series Round**
-   - Therefore the Rounds Data Frame is filtered to obtain only the rounds Before the decision pont
+   - Therefore, the Rounds Data Frame is filtered to obtain only the rounds Before the decision point
    - From the df_rounds_filtered (Rounds at decision point) the following indicators are obtained
      - Decision point Year
      - Rounds count
-     - Sum of rounds ammount
+     - Sum of rounds amount
      - Max amount
 
 ## 6. Founders Table Data Cleaning
@@ -66,7 +66,7 @@ Decision point years of experience
 
 ### Obtain max, sum, and mean of all variables
 
-As some companies have more than one founder the max, sum and means of the following variables are obtained in order to use them as inputs to the model.
+As some companies have more than one founder the max, sum and means of the following variables are obtained to use them as inputs to the model.
 
 - Variables
   - manager_exp
