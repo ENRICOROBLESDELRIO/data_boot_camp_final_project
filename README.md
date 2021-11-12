@@ -14,14 +14,14 @@ A few examples of queries from pgAdmin are included for further information, inc
 
 Using [Psycopg2](https://www.psycopg.org/docs/) as the official client library, the connection between the database, Google Cloud and Google Colab was set.  
 
-![importing_database_1](./Resources/importing_database_1.png)
+![database_1](./Resources/database_1.png)
 
 To protect users, passwords and connection detail a .TXT file was created and accessed through code , making it able to connect the database with   `Psycopg2`:
 
-![importing_database_2](./Resources/importing_database_2.png)
+![database_2](./Resources/database_2.png)
 
 Finally, the data can be accessed through SQL queries and manipulated easily from `Pandas` at Google Colab:
 
-![importing_database_3](./Resources/importing_database_3.png)
+![database_3](./Resources/database_3.png)
 
-For further reference see code file `Import_data_SQL.ipynb`included in this repository.
+For further reference see code file `Import_data_SQL.ipynb` included in this repository.
