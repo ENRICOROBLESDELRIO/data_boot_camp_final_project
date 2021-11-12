@@ -1,4 +1,4 @@
-# Database Intgration 
+# Database Integration 
 
 For database storage, the team decided to use Google Cloud SQL and Postgres to create and manipulate the data frame.
 
