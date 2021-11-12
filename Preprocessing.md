@@ -64,7 +64,7 @@ First Employment Year
 Decision point years of experience
 - df_founders['dp_years_of_experience'] = df_founders['dp_year'] - df_founders['first_employment_year']
 
-### Obtain max, sum and mean of all variables
+### Obtain max, sum, and mean of all variables
 
 As some companies have more than one founder the max, sum and means of the following variables are obtained in order to use them as inputs to the model.
 
