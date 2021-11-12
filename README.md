@@ -100,3 +100,8 @@ For the companies table, it was necessary to exclude the "mean_**" columns from 
 
 ![alt text](Resources/11.png)
 
+=======
+## Preprocessing
+
+[Go to Preprocessing Resume](Preprocessing.md)
+
