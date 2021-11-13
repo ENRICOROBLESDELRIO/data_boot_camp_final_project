@@ -85,8 +85,14 @@ _______________
 [Go to Preprocessing Resume](Cleaning.md)
 
 =======
+## Exploratory analysis
+
+[Go to Exploratory analysis Resume](Exploratory_analysis.md)
+
+=======
 ## Neural networks
 
 [Go to Preprocessing Resume](Model.md)
 
 =======
+
