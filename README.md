@@ -95,4 +95,30 @@ _______________
 [Go to Preprocessing Resume](Model.md)
 
 =======
+## Link to Presentation
 
+[Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+
+Content
+
+✓ Selected topic
+
+✓ Reason why they selected their topic
+
+✓ Description of their source of data
+
+✓ Questions they hope to answer with the data
+
+✓ Description of the data exploration phase of the project
+
+✓ Description of the analysis phase of the project
+
+A blueprint for the dashboard is created and includes all of the following:
+
+✓ Storyboard on Google Slide(s)
+
+✓ Description of the tool(s) that will be used to create final dashboard
+
+✓ Description of interactive element(s)
+
+=======
