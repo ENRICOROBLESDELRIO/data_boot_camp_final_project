@@ -100,4 +100,5 @@ As some companies have more than one founder the max, sum and means of the follo
 - Create the table
 - Insert the data into de table.
 
+
 [Back to README](README.md#preprocessing)
