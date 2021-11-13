@@ -6,7 +6,7 @@ For this purpose, `Google Colab` and `Google Cloud SQL` [documentation](https://
 
 First, two tables were created at pgAdmin to set our data frame, one was created for Founders Demographics and the other was set for their companies performance, in accordance with the ERD with the following relationships: 
 
-![SQL_Diagram](./Resources/SQL_Diagram.png)
+![SQL_Diagram](./Resources/EDR.png)
 
 A few examples of queries from pgAdmin are included for further information, including an Inner join between tables:
 
@@ -24,4 +24,4 @@ Finally, the data can be accessed through SQL queries and manipulated easily fro
 
 ![database_3](./Resources/database_3.png)
 
-For further reference see code file `Import_data_SQL.ipynb` included in this repository.
+For further reference see code file [Database_Integration_Connection_SQL.ipynb](/Database_Integration_Connection_SQL.ipynb) included in this repository.
