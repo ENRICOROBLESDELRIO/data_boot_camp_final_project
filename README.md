@@ -25,6 +25,7 @@ Finally, the data can be accessed through SQL queries and manipulated easily fro
 ![database_3](./Resources/database_3.png)
 
 For further reference see code file [Database_Integration_Connection_SQL.ipynb](/Database_Integration_Connection_SQL.ipynb) included in this repository.
+
 =======
 # Final project Data Bootcamp
 
