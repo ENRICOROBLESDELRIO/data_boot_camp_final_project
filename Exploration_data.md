@@ -1,7 +1,8 @@
 # Exploration data
 This file is the explatation for the exploratory analysis
 
-Link to code
+Link to code of firs_exploration_data:
+https://github.com/ENRICOROBLESDELRIO/data_boot_camp_final_project/blob/raquel_branch/First_exploration_data.ipynb
 
 # **Database set up**
 ![image](https://user-images.githubusercontent.com/85086918/141649956-a9076aea-471b-4507-bd5c-6bd406afa8ad.png)
@@ -11,7 +12,9 @@ Link to code
 
 ## Cleaning
 
-Link to cleaning code
+Link to cleaning code:
+cleanData.ipynb
+https://github.com/ENRICOROBLESDELRIO/data_boot_camp_final_project/blob/main/cleanData.ipynb
 
 ## Experience
 
@@ -42,7 +45,10 @@ It's important to know more about year of foundation, entrepreneurship experienc
 
 Data is already clean, because is the result of the union and manipulation of Founders' table and Rounds' table, which data is also clean, however, we always made reviews of all variables
 
-Link to cleaning code
+Link to cleaning code:
+cleanData.ipynb
+https://github.com/ENRICOROBLESDELRIO/data_boot_camp_final_project/blob/main/cleanData.ipynb
+
 
 ## Exploration
 
