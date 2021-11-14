@@ -1,6 +1,6 @@
 # Data Muckups
 
-[Back to README](README.md)
+[Back to README](README.md#index)
 
 ## Table fields review
 
@@ -14,4 +14,4 @@ The database fields are reviewed with the mockup fields. Type and name.
   ![alt text](Resources/mockupdb2.png)
   ![alt text](Resources/mockupdb3.png)
 
-[Back to README](README.md)
+[Back to README](README.md#index)

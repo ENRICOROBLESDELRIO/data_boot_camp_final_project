@@ -1,24 +1,24 @@
 # Exploratory analysis
+
 Explanation for the exploratory analysis
 
-[Back to README](README.md)
+[Back to README](README.md#index)
 
 [Link to the First exploratory analysis code](/First_exploration_data.ipynb)
 
 Language: Jupyter Notebook in Google Colab
 
+## **Database set up**
 
-# **Database set up**
 ![image](https://user-images.githubusercontent.com/85086918/141649956-a9076aea-471b-4507-bd5c-6bd406afa8ad.png)
 
+## **Founders**
 
-# **Founders**
-
-## Cleaning
+### Cleaning
 
 [Cleaning code](/cleanData.ipynb)
 
-## Experience
+### Experience
 
 In order to understand the founder's experience, we're going to calculate the percentage of founders who has the experience in each topic
 
@@ -41,16 +41,15 @@ It's important to know more about year of foundation, entrepreneurship experienc
 * The average of overall experience is 13.6 years
 * The number of start ups es 1.7 in average
 
-# **Companies**
+## **Companies**
 
-## Data & cleaning
+### Data & cleaning
 
 Data is already clean, because is the result of the union and manipulation of Founders' table and Rounds' table, which data is also clean, however, we always made reviews of all variables
 
 [Cleaning code](/cleanData.ipynb)
 
-
-## Exploration
+### Exploration
 
 **Some findings**
 
@@ -66,4 +65,4 @@ This data will be better explained when the model could be able to separate betw
 * 23% of the companies have already more than 50 employees and just the 14% have rolled over 100
 * The average round factor is 2.54
 
-[Back to README](README.md)
+[Back to README](README.md#index)
