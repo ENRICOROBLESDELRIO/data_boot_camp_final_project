@@ -122,4 +122,6 @@ As some companies have more than one founder the max, sum and means of the follo
 
 ![SQL data upload](./Resources/images/preprocessing/10_SQL_data_upload.png)
 
+For further reference see code file [Data_Preprocessing_Company_Table_V02.ipynb](./Resources/code/Data_Preprocessing_Company_Table_V02.ipynb) included in this repository.
+
 [Back to Index](README.md#index)
