@@ -2,16 +2,16 @@
 
 ## Index
 
-| Topic | Description | Link |
-| --- | --- | :---: |
-| **Presentations** | Presentations by deliverable | [Go](README.md#presentations) |
-| **Team Organization** | Framework, Team Calendar, Branchs | [Go](RED00_Team_organization.md) |
-| **Data Muckups** | Fields Review, Mockup tables | [Go](RED01_Data_Muckups.md) |
-| **Database Integration** | Google Cloude Database, Tables Descriptions, Example Queries, Psycopg2 connection  | [Go](RED02_Database_Integration.md) |
-| **Preprocessing** | Features calculation and consolidation, Companies Table Creation | [Go](RED03_Preprocessing.md) |
-| **Cleaning data** | Null values cleaning, Encoding | [Go](RED04_Cleaning.md) |
-| **Exploratory analysis** | Preliminar Findings | [Go](RED05_Exploratory_analysis.md)|
-| **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neural_networks.md)|
+| Topic | Description | Link | Code |
+| --- | --- | :---: | :---: |
+| **Presentations** | Presentations by deliverable | [Go](README.md#presentations) | - |
+| **Team Organization** | Framework, Team Calendar, Branchs | [Go](RED00_Team_organization.md) | - |
+| **Data Muckups** | Fields Review, Mockup tables | [Go](RED01_Data_Muckups.md) | - |
+| **Database Integration** | Google Cloude Database, Tables Descriptions, Example Queries, Psycopg2 connection  | [Go](RED02_Database_Integration.md) | [<>](./Resources/code/Database_Integration_Connection_SQL.ipynb) |
+| **Preprocessing** | Features calculation and consolidation, Companies Table Creation | [Go](RED03_Preprocessing.md) | [<>](./Resources/code/Data_Preprocessing_Company_Table_V02.ipynb)  |
+| **Cleaning data** | Null values cleaning, Encoding | [Go](RED04_Cleaning.md) | [<>](./Resources/code/cleanData.ipynb)|
+| **Exploratory analysis** | Preliminar Findings | [Go](RED05_Exploratory_analysis.md)| [<>](./Resources/code/First_exploration_data.ipynb) |
+| **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neural_networks.md)| [<>](./Resources/code/Machine_Learning_Model.ipynb) |
 
 ---
 
