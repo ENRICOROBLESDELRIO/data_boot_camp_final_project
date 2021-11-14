@@ -1,7 +1,5 @@
 # Final project Data Bootcamp
 
----
-
 ## Index
 
 | Topic | Description | Link |
@@ -19,15 +17,15 @@
 
 ## Presentations
 
-### Second Delivery Presentation
-
 [Back to Index](README.md#index)
+
+### Second Delivery Presentation
 
 [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
 [![Second Delivery Presentation](./Resources/images/README/Presentation_Second_Deliverable.png)](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
-Content
+#### Content
 
 ✓ Selected topic
 
@@ -41,7 +39,7 @@ Content
 
 ✓ Description of the analysis phase of the project
 
-A blueprint for the dashboard is created and includes all of the following:
+#### A blueprint for the dashboard is created and includes all of the following:
 
 ✓ Storyboard on Google Slide(s)
 

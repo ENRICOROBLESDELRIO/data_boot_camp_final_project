@@ -8,24 +8,24 @@ For this purpose, `Google Colab` and `Google Cloud SQL` [documentation](https://
 
 First, two tables were created at pgAdmin to set our data frame, one was created for Founders Demographics and the other was set for their companies performance, in accordance with the ERD with the following relationships:
 
-![SQL_Diagram](./Resources/EDR.png)
+![SQL_Diagram](./Resources/images/database_integration/EDR.png)
 
 A few examples of queries from pgAdmin are included for further information, including an Inner join between tables:
 
-![Queries](./Resources/Queries.png)
+![Queries](./Resources/images/database_integration/Queries.png)
 
 Using [Psycopg2](https://www.psycopg.org/docs/) as the official client library, the connection between the database, Google Cloud and Google Colab was set.  
 
-![database_1](./Resources/database_1.png)
+![database_1](./Resources/images/database_integration/database_1.png)
 
 To protect users, passwords and connection detail a .TXT file was created and accessed through code , making it able to connect the database with   `Psycopg2`:
 
-![database_2](./Resources/database_2.png)
+![database_2](./Resources/images/database_integration/database_2.png)
 
 Finally, the data can be accessed through SQL queries and manipulated easily from `Pandas` at Google Colab:
 
-![database_3](./Resources/database_3.png)
+![database_3](./Resources/images/database_integration/database_3.png)
 
-For further reference see code file [Database_Integration_Connection_SQL.ipynb](/Database_Integration_Connection_SQL.ipynb) included in this repository.
+For further reference see code file [Database_Integration_Connection_SQL.ipynb](./Resources/code/Database_Integration_Connection_SQL.ipynb) included in this repository.
 
 [Back to Index](README.md#index)

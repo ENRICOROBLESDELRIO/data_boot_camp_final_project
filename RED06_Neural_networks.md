@@ -19,19 +19,19 @@ The data frame is adapted to the neural network model, removing the columns with
 
 ### 1. Import libraries
 
-![alt text](Resources/model_import.png)
+![alt text](Resources/images/neural_networks/model_import.png)
 
 ### 2. Select category columns
 
-![alt text](Resources/model_selectCatColm.png)
+![alt text](Resources/images/neural_networks/model_selectCatColm.png)
 
 ### 3. Drop category columns (Mean, max)
 
-![alt text](Resources/model_dropcolm.png)
+![alt text](Resources/images/neural_networks/model_dropcolm.png)
 
 ### 4. Encode and transform years columns
 
-![alt text](Resources/model_Encode.png)
+![alt text](Resources/images/neural_networks/model_Encode.png)
 
 _______________________________
 
@@ -39,28 +39,28 @@ For each Y defined as independent variable, a model of its own is created.
 
 ### 5. Slipt data
 
-![alt text](Resources/model_split.png)
+![alt text](Resources/images/neural_networks/model_split.png)
 
 ### 6. Structure module
 
-![alt text](Resources/model_structure.png)
+![alt text](Resources/images/neural_networks/model_structure.png)
 
 ### 7. Create and config layers
 
-![alt text](Resources/model_layers.png)
+![alt text](Resources/images/neural_networks/model_layers.png)
 
 ### 8. Evaluate results
 
 #### Y = +50 employees
 
-![alt text](Resources/model_evaluate.png)
+![alt text](Resources/images/neural_networks/model_evaluate.png)
 
 #### Y = +100 employees
 
-![alt text](Resources/model_evaluate2.png)
+![alt text](Resources/images/neural_networks/model_evaluate2.png)
 
 #### Y = soonicorns
 
-![alt text](Resources/model_evaluate3.png)
+![alt text](Resources/images/neural_networks/model_evaluate3.png)
 
 [Back to Index](README.md#index)

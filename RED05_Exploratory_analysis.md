@@ -4,7 +4,7 @@ Explanation for the exploratory analysis
 
 [Back to Index](README.md#index)
 
-[Link to the First exploratory analysis code](/First_exploration_data.ipynb)
+[Link to the First exploratory analysis code](./Resources/code/First_exploration_data.ipynb)
 
 Language: Jupyter Notebook in Google Colab
 
@@ -16,7 +16,7 @@ Language: Jupyter Notebook in Google Colab
 
 ### Cleaning
 
-[Cleaning code](/cleanData.ipynb)
+[Cleaning code](./Resources/code/cleanData.ipynb)
 
 ### Experience
 
@@ -47,7 +47,7 @@ It's important to know more about year of foundation, entrepreneurship experienc
 
 Data is already clean, because is the result of the union and manipulation of Founders' table and Rounds' table, which data is also clean, however, we always made reviews of all variables
 
-[Cleaning code](/cleanData.ipynb)
+[Cleaning code](./Resources/code/cleanData.ipynb)
 
 ### Exploration
 
