@@ -50,6 +50,6 @@ For the companies table, it was necessary to exclude the "mean_**" columns from 
 
 ![alt text](Resources/images/cleaning/11.png)
 
-For further reference see code file [Database_Integration_Connection_SQL.ipynb](./Resources/code/cleanData.ipynb) included in this repository.
+For further reference see code file [cleanData.ipynb](./Resources/code/cleanData.ipynb) included in this repository.
 
 [Back to Index](README.md#index)
