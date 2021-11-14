@@ -63,4 +63,6 @@ For each Y defined as independent variable, a model of its own is created.
 
 ![alt text](Resources/images/neural_networks/model_evaluate3.png)
 
+For further reference see code file [Machine_Learning_Model.ipynb](./Resources/code/Machine_Learning_Model.ipynb) included in this repository.
+
 [Back to Index](README.md#index)
