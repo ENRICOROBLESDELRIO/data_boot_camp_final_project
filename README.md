@@ -75,6 +75,11 @@ _______________
 _______________
 
 =======
+## Database Integration
+
+[Go to Database Integration Resume](RED02_Database_Integration.md)
+
+=======
 ## Preprocessing
 
 [Go to Preprocessing Resume](Preprocessing.md)
