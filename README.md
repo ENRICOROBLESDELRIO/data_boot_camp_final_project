@@ -6,14 +6,14 @@
 
 | Topic | Description | Link |
 | --- | --- | :---: |
-| **Presentations** | Presentations by Deliverable | [Go](README.md#presentations) |
+| **Presentations** | Presentations by deliverable | [Go](README.md#presentations) |
 | **Team Organization** | Framework, Team Calendar, Branchs | [Go](RED00_Team_organization.md) |
 | **Data Muckups** | Fields Review, Mockup tables | [Go](RED01_Data_Muckups.md) |
-| **Database Integration** | | [Go](RED02_Database_Integration.md) |
+| **Database Integration** | Google Cloude Database, Tables Descriptions, Example Queries, Psycopg2 connection  | [Go](RED02_Database_Integration.md) |
 | **Preprocessing** | Features calculation and consolidation, Companies Table Creation | [Go](RED03_Preprocessing.md) |
-| **Cleaning data** | | [Go](RED04_Cleaning.md) |
-| **Exploratory analysis** | | [Go](RED05_Exploratory_analysis.md)|
-| **Neural networks** | | [Go](RED06_Neural_networks.md)|
+| **Cleaning data** | Null values cleaning, Encoding | [Go](RED04_Cleaning.md) |
+| **Exploratory analysis** | Preliminar Findings | [Go](RED05_Exploratory_analysis.md)|
+| **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neural_networks.md)|
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Second Delivery Presentation
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
 
 [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
