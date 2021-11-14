@@ -10,6 +10,8 @@ GitHub Repository for the final project
 
 [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
+[![First Delivery Presentation](.\Resources\images\README\Presentation_Second_Deliverable.png)](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+
 Content
 
 ✓ Selected topic
