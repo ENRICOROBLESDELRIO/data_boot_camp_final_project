@@ -1,6 +1,6 @@
 # Team Organization
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
 
 ## Framework SCRUM
 
@@ -18,4 +18,4 @@ Each member of the team create personal branch on Github
 
 ![alt text](Resources/branch.png)
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
