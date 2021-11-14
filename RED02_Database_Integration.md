@@ -1,6 +1,6 @@
 # Database Integration
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
 
 For database storage, the team decided to use Google Cloud SQL and Postgres to create and manipulate the data frame.
 
@@ -28,4 +28,4 @@ Finally, the data can be accessed through SQL queries and manipulated easily fro
 
 For further reference see code file [Database_Integration_Connection_SQL.ipynb](/Database_Integration_Connection_SQL.ipynb) included in this repository.
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)

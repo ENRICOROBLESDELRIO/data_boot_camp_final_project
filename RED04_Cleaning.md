@@ -1,6 +1,6 @@
 # Description of cleaning data
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
 
 The connection to the postgress database was made to google colab.
 
@@ -46,8 +46,8 @@ In each of the tables (Founders and Rounsds) the following steps are performed:
 
 ![alt text](Resources/10.png)
 
-For the companies table, it was necessary to exclude the "mean_**" columns from the integer transformation, so regular expressions were used to exclude the names starting with "mean" from the list of column names used in the loop transformation. 
+For the companies table, it was necessary to exclude the "mean_**" columns from the integer transformation, so regular expressions were used to exclude the names starting with "mean" from the list of column names used in the loop transformation.
 
 ![alt text](Resources/11.png)
 
-[Back to README](README.md#index)
+[Back to Index](README.md#index)
