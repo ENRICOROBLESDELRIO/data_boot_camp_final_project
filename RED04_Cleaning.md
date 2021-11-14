@@ -1,5 +1,7 @@
-=======
 # Description of cleaning data
+
+[Back to README](README.md)
+
 The connection to the postgress database was made to google colab.
 
 ![alt text](Resources/1.png)
@@ -48,3 +50,4 @@ For the companies table, it was necessary to exclude the "mean_**" columns from 
 
 ![alt text](Resources/11.png)
 
+[Back to README](README.md)
