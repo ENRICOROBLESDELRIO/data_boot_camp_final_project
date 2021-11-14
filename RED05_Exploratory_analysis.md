@@ -1,6 +1,8 @@
 # Exploratory analysis
 Explanation for the exploratory analysis
 
+[Back to README](README.md)
+
 [Link to the First exploratory analysis code](/First_exploration_data.ipynb)
 
 Language: Jupyter Notebook in Google Colab
@@ -64,6 +66,4 @@ This data will be better explained when the model could be able to separate betw
 * 23% of the companies have already more than 50 employees and just the 14% have rolled over 100
 * The average round factor is 2.54
 
-
-
-
+[Back to README](README.md)
