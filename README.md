@@ -1,12 +1,27 @@
 # Final project Data Bootcamp
 
-GitHub Repository for the final project
+---
+
+## Index
+
+| Topic | Description | Link |
+| --- | --- | :---: |
+| **Presentations** | Presentations by Deliverable | [Go](README.md#presentations) |
+| **Team Organization** | Framework, Team Calendar, Branchs | [Go](RED00_Team_organization.md) |
+| **Data Muckups** | Fields Review, Mockup tables | [Go](RED01_Data_Muckups.md) |
+| **Database Integration** | | [Go](RED02_Database_Integration.md) |
+| **Preprocessing** | Features calculation and consolidation, Companies Table Creation | [Go](RED03_Preprocessing.md) |
+| **Cleaning data** | | [Go](RED04_Cleaning.md) |
+| **Exploratory analysis** | | [Go](RED05_Exploratory_analysis.md)|
+| **Neural networks** | | [Go](RED06_Neural_networks.md)|
 
 ---
 
-## Overview
+## Presentations
 
 ### Second Delivery Presentation
+
+[Back to README](README.md#index)
 
 [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
@@ -47,16 +62,4 @@ Presentation link:
 
 </details>
 
-_______________
-
-## Index
-
-| Topic | Description | Link |
-| --- | --- | :---: |
-| **Team Organization** | Framework, Team Calendar, Branchs | [Go](RED00_Team_organization.md) |
-| **Data Muckups** | Fields Review, Mockup tables | [Go](RED01_Data_Muckups.md) |
-| **Database Integration** | | [Go](RED02_Database_Integration.md) |
-| **Preprocessing** | Features calculation and consolidation, Companies Table Creation | [Go](RED03_Preprocessing.md) |
-| **Cleaning data** | | [Go](RED04_Cleaning.md) |
-| **Exploratory analysis** | | [Go](RED05_Exploratory_analysis.md)|
-| **Neural networks** | | [Go](RED06_Neural_networks.md)|
+[Back to README](README.md#index)
