@@ -56,7 +56,7 @@
 Presentation link:
 [First Delivery Presentation](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
 
-[![First Delivery Presentation](./Resources/presentation.png)](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
+[![First Delivery Presentation](./Resources/images/README/Presentation_First_Deliverable.png)](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
 
 </details>
 
