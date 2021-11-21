@@ -78,23 +78,173 @@ We create a callback function for stopping the Epoch when the accuracy does not 
 
 #### Y = +100 employees
 
-![alt text](Resources/images/neural_networks/model_evaluate2.png)
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_100_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_100_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluate_100_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_100_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_100_4cm.png)
 
 #### Y = soonicorns
 
-![alt text](Resources/images/neural_networks/model_evaluate3.png)
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_soon_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_soon_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluate_soon_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_soon_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_soon_4cm.png)
 
 
-#### Balanced data
+- ### Balanced data
 
-##### Oversampling
+    -  #### Oversampling
+#### Y = +50 employees
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_50_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_50_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_50_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_50_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_50_4cm.png)
+
+#### Y = +100 employees
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_100_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_100_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_100_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_100_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_100_4cm.png)
+
+#### Y = soonicorns
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_4cm.png)
 
 
-##### Undersampling
+    - #### Undersampling
+#### Y = +50 employees
+- Model: 
 
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_50_1.png)
 
-##### SMOTE
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_50_2.png)
 
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_50_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_50_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_50_4cm.png)
+
+#### Y = +100 employees
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_100_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_100_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_100_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_100_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_100_4cm.png)
+
+#### Y = soonicorns
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_4cm.png)
+
+    - #### SMOTE
+
+#### Y = +50 employees
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_50_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_50_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_50_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_50_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_50_4cm.png)
+
+#### Y = +100 employees
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_100_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_100_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_100_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_100_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_100_4cm.png)
+
+#### Y = soonicorns
+
+- Model: 
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_4cm.png)
 
 
 
