@@ -70,6 +70,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluate_50_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluate_50_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluate_50_3cm.png)
@@ -85,6 +86,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluate_100_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluate_100_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluate_100_3cm.png)
@@ -100,6 +102,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluate_soon_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluate_soon_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluate_soon_3cm.png)
@@ -118,6 +121,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_50_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBO_50_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_50_3cm.png)
@@ -133,6 +137,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_100_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBO_100_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_100_3cm.png)
@@ -148,6 +153,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBO_soon_3cm.png)
@@ -164,6 +170,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_50_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBU_50_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_50_3cm.png)
@@ -179,6 +186,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_100_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBU_100_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_100_3cm.png)
@@ -194,6 +202,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBU_soon_3cm.png)
@@ -210,6 +219,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_50_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBS_50_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_50_3cm.png)
@@ -225,6 +235,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_100_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBS_100_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_100_3cm.png)
@@ -240,6 +251,7 @@ We create a callback function for stopping the Epoch when the accuracy does not 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_2.png)
 
 - Confusion Matrix
+
     ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_5cm.png)
 
     ![alt text](Resources/images/neural_networks/model_evaluateBS_soon_3cm.png)
