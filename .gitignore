@@ -1,5 +1,10 @@
+# Added files and folders
+
+lfba_folder/
+
+# -------------
 Config.py
-DS_Store
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -27,6 +32,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
 MANIFEST
 
 # PyInstaller
