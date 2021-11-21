@@ -12,7 +12,7 @@
 | **Cleaning data** | Null values cleaning, Encoding | [Go](RED04_Cleaning.md) | [<>](./Resources/code/cleanData.ipynb)|
 | **Exploratory analysis** | Preliminar Findings | [Go](RED05_Exploratory_analysis.md)| [<>](./Resources/code/First_exploration_data.ipynb) |
 | **Principal Components Analysis** | PCA and K-means | [Go](RED07_PCA.md)| [<>](./Resources/code/Principal_Component_Analysis_V03.ipynb) |
-| **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neural_networks.md)| [<>](./Resources/code/Machine_Learning_Model.ipynb) |
+| **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neuronal_networks.md)| [<>](./Resources/code/Machine_Learning_Model.ipynb) |
 
 ---
 
