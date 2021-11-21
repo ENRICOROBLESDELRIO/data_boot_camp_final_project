@@ -1,4 +1,4 @@
-# Neural networks
+# Neuronal networks
 
 [Back to Index](README.md#index)
 
@@ -39,6 +39,8 @@ For each Y defined as independent variable, a model of its own is created.
 
 ### 5. Slipt data
 
+We divide the data into training, validation, and testing. Using the 70-15-15 ratio.
+
 ![alt text](Resources/images/neural_networks/model_split.png)
 
 ### 6. Structure module
@@ -49,11 +51,30 @@ For each Y defined as independent variable, a model of its own is created.
 
 ![alt text](Resources/images/neural_networks/model_layers.png)
 
-### 8. Evaluate results
+### 8. Fit the model
 
+We create a callback function for stopping the Epoch when the accuracy does not improve
+
+![alt text](Resources/images/neural_networks/model_callback.png)
+
+![alt text](Resources/images/neural_networks/model_FitModel.png)
+
+### 9. Evaluate results
+
+- ### Unbalanced data
 #### Y = +50 employees
+- Model: 
 
-![alt text](Resources/images/neural_networks/model_evaluate.png)
+    ![alt text](Resources/images/neural_networks/model_evaluate_50_1.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_50_2.png)
+
+- Confusion Matrix
+    ![alt text](Resources/images/neural_networks/model_evaluate_50_5cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_50_3cm.png)
+
+    ![alt text](Resources/images/neural_networks/model_evaluate_50_4cm.png)
 
 #### Y = +100 employees
 
@@ -62,6 +83,20 @@ For each Y defined as independent variable, a model of its own is created.
 #### Y = soonicorns
 
 ![alt text](Resources/images/neural_networks/model_evaluate3.png)
+
+
+#### Balanced data
+
+##### Oversampling
+
+
+##### Undersampling
+
+
+##### SMOTE
+
+
+
 
 For further reference see code file [Machine_Learning_Model.ipynb](./Resources/code/Machine_Learning_Model.ipynb) included in this repository.
 
