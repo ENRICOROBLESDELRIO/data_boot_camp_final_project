@@ -4,7 +4,7 @@ Logistic Regression is one of the best models to describe the relationship betwe
 
 The data splitting was made 75%-25% for all models to compare them.
 
-[Go to code](Analisis_Raquel_Logistic_R.ipynb)
+[Go to code](./Resources/code/Logistic_Regression.ipynb)
 
 We made modelling with:
 * Original variables
