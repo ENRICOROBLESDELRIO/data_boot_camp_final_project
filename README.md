@@ -75,6 +75,8 @@
   [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
 
   [![Second Delivery Presentation](./Resources/images/README/Presentation_Second_Deliverable.png)](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+  
+  [![Third Delivery Presentation](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit#slide=id.gfbf497d794_4_0)
 
   #### Content
 
