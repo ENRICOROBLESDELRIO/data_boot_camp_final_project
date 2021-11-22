@@ -41,4 +41,17 @@ The best variable’s treatment in terms of training/testing score and confusion
 
 **For this type of modelling, the best y and model is y: More than 100 employees and X standardized unbalanced**
 
+## Tables to compare
 
+**y: More than 50 employees**
+
+![image](https://user-images.githubusercontent.com/85086918/142785890-5731ada7-6fed-45d8-bedb-0584ba5172c1.png)
+
+**y: More than 100 employees**
+
+![image](https://user-images.githubusercontent.com/85086918/142785921-4c049afd-96d7-4238-a0ac-64ed156d8e73.png)
+
+
+**y Soonicorns**
+
+![image](https://user-images.githubusercontent.com/85086918/142785941-78d7b683-2b4e-44ff-80c4-39e919feae34.png)
