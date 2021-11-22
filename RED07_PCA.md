@@ -113,3 +113,5 @@ fig.show()
 ### Companies with more than 100 employees
 
 ![100e by cluster](./Resources/images/pca/Y_by_cluster_100e.png)
+
+For further reference see code file [Principal_Component_Analysis_V03.ipynb](./Resources/code/Principal_Component_Analysis_V03.ipynb) included in this repository.

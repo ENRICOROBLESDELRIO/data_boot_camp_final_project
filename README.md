@@ -21,11 +21,11 @@
 
 [Back to Index](README.md#index)
 
-### Second Delivery Presentation
+### Third Delivery Presentation
 
-[Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+[Go to Presentation](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
 
-[![Second Delivery Presentation](./Resources/images/README/Presentation_Second_Deliverable.png)](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+[![Third Delivery Presentation](./Resources/images/README/Presentation_Third_Deliverable.png)](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
 
 #### Content
 
@@ -41,6 +41,8 @@
 
 ✓ Description of the analysis phase of the project
 
+✓ Technologies, languages, tools, and algorithms used throughout the project
+
 #### A blueprint for the dashboard is created and includes all of the following:
 
 ✓ Storyboard on Google Slide(s)
@@ -51,14 +53,49 @@
 
 ---
 
+### Previous Presentations
+
 <details>
 
   <summary>First Delivery Presentation</summary>
 
-Presentation link:
-[First Delivery Presentation](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
+  Presentation link:
+  [First Delivery Presentation](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
 
-[![First Delivery Presentation](./Resources/images/README/Presentation_First_Deliverable.png)](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
+  [![First Delivery Presentation](./Resources/images/README/Presentation_First_Deliverable.png)](https://docs.google.com/presentation/d/1K-likYbv1rm9tx0FUCvtPsFVDtoFoNSIyFht_ey9abI/edit?usp=sharing)
+
+</details>
+
+<details>
+
+  <summary>Second Delivery Presentation</summary>
+
+  Presentation link:
+  [Go to Presentation](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+
+  [![Second Delivery Presentation](./Resources/images/README/Presentation_Second_Deliverable.png)](https://docs.google.com/presentation/d/1T7nPs9Xw17V6-010LkOIDMzpIrChUdoW8UOq_4DVLtM/edit?usp=sharing)
+
+  #### Content
+
+  ✓ Selected topic
+
+  ✓ Reason why they selected their topic
+
+  ✓ Description of their source of data
+
+  ✓ Questions they hope to answer with the data
+
+  ✓ Description of the data exploration phase of the project
+
+  ✓ Description of the analysis phase of the project
+
+  #### A blueprint for the dashboard is created and includes all of the following:
+
+  ✓ Storyboard on Google Slide(s)
+
+  ✓ Description of the tool(s) that will be used to create final dashboard
+
+  ✓ Description of interactive element(s)
 
 </details>
 
