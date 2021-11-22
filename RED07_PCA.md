@@ -68,4 +68,48 @@
 
 ## Drop outliers
 
-- A function to dr
+- A function to drop outliers according to Mahalanobis distance was defined:
+
+![Drop outliers code](./Resources/images/pca/03_def_fnc_drop_outliers.png)
+
+## PCA Scenarios
+
+- A function to obtain the explained variance in many scenarios was defined:
+  - To evaluate the effect of droping outliers in different limits
+  - To evaluate a range of number of components
+
+![Explained Variance](./Resources/images/pca/pca_1st_scenarios.png)
+
+## Running K-means
+
+- K-means evaluation according to selected PCA scenario
+
+![K-means](./Resources/images/pca/kmeans_2nd_scenarios.png)
+
+## Clusters Visualization in 2D and 3D
+
+![Clusters 2D](./Resources/images/pca/clusters_2D.png)
+
+![Clusters 3D](./Resources/images/pca/clusters_3D_4.png)
+
+
+## Y by cluster
+
+```python
+import plotly.express as px
+df = df_Y_by_cluster
+fig = px.bar(df, x="class", y="soonicorn", color="class")
+fig.show()
+```
+
+### Soonicorns
+
+![soonicorns by cluster](./Resources/images/pca/Y_by_cluster_soonicorns.png)
+
+### Companies with more than 50 employees
+
+![50e by cluster](./Resources/images/pca/Y_by_cluster_50e.png)
+
+### Companies with more than 100 employees
+
+![100e by cluster](./Resources/images/pca/Y_by_cluster_100e.png)
