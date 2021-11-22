@@ -14,6 +14,7 @@
 | **Principal Components Analysis** | PCA and K-means | [Go](RED07_PCA.md)| [<>](./Resources/code/Principal_Component_Analysis_V03.ipynb) |
 | **Neural networks** | Pros and Cons of the Model, Preliminar Loss and Accuracy | [Go](RED06_Neuronal_networks.md)| [<>](./Resources/code/Machine_Learning_Model.ipynb) |
 | **Logistic Regression** | Logistic Regression, comparison between treatments | [Go](RED08_Logistic_Regression.md) | [<>](./Resources/code/Logistic_Regression.ipynb) |
+| **Random Forest** | Random Forest, comparison between models and hyperparameters | [Go]() | [<>](https://github.com/ENRICOROBLESDELRIO/data_boot_camp_final_project/blob/main/Random_Forest_Model_50%2B.ipynb) |
 | **Dashboard** | Data Exploratory with filtering "More than 50 employees" | [Go](https://public.tableau.com/app/profile/raquel.valdez.beristain/viz/BootcampFinalProject_16375307974130/Storyboard?publish=yes) | - |
 ---
 
