@@ -22,11 +22,11 @@
 
 [Back to Index](README.md#index)
 
-### Third Delivery Presentation
+### Final Presentation
 
-[Go to Presentation](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
+[Go to Presentation](https://docs.google.com/presentation/d/1HFcY_F5WjrMfR_F0eJvSWqfc7h9HHobraa4CZsWvhGo/edit?usp=sharing)
 
-[![Third Delivery Presentation](./Resources/images/README/Presentation_Third_Deliverable.png)](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
+[![Final Presentation](./Resources/images/README/Presentation_Final_Deliverable.png)](https://docs.google.com/presentation/d/1HFcY_F5WjrMfR_F0eJvSWqfc7h9HHobraa4CZsWvhGo/edit?usp=sharing)
 
 #### Content
 
@@ -91,6 +91,41 @@
   ✓ Description of the data exploration phase of the project
 
   ✓ Description of the analysis phase of the project
+
+  #### A blueprint for the dashboard is created and includes all of the following:
+
+  ✓ Storyboard on Google Slide(s)
+
+  ✓ Description of the tool(s) that will be used to create final dashboard
+
+  ✓ Description of interactive element(s)
+
+</details>
+
+<details>
+
+  <summary>Third Delivery Presentation</summary>
+
+  Presentation link:
+  [Go to Presentation](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
+
+  [![Third Delivery Presentation](./Resources/images/README/Presentation_Third_Deliverable.png)](https://docs.google.com/presentation/d/1hwrOTmSkyvHYLXbZJylb-dQx5HRse0HwkZh29kWzUAI/edit?usp=sharing)
+
+  #### Content
+
+  ✓ Selected topic
+
+  ✓ Reason why they selected their topic
+
+  ✓ Description of their source of data
+
+  ✓ Questions they hope to answer with the data
+
+  ✓ Description of the data exploration phase of the project
+
+  ✓ Description of the analysis phase of the project
+
+  ✓ Technologies, languages, tools, and algorithms used throughout the project
 
   #### A blueprint for the dashboard is created and includes all of the following:
 
